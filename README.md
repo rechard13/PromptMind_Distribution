@@ -89,4 +89,4 @@ If issues occur, check the logs in the application folder.
 
 =======================================================  
 **PromptMind** - Your customizable local AI 🧠✨  
-=======================================================  
+ 
